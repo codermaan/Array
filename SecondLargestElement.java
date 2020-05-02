@@ -1,8 +1,8 @@
-package array;
+package Array;
 
 import java.util.Scanner;
 
-public class A3_1SecondLargestElement {
+public class SecondLargestElement {
 	public static void main (String[] args)
 	 {
 	     Scanner s= new Scanner(System.in);
